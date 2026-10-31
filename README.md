@@ -17,3 +17,4 @@
 🔎 **Find me on:**
 - 💼 [LinkedIn](https://linkedin.com/in/ali-dasmeh)
 - ✉️ [alidasmeh@gmail.com](mailto:alidasmeh@gmail.com)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=GTlW5wEAAAAJ)
