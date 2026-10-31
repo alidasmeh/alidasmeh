@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi
 
-<!--
-**alidasmeh/alidasmeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm a **Software & Data Platform Engineer** specializing in distributed systems, data lakehouses, and production ML pipelines.
+- 🧠 Background spanning software engineering, cognitive science, and music performance.
 
-Here are some ideas to get you started:
+💼 **Experience:**
+- **Research Engineer** @ [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en), Berlin
+- **Software Engineer (Working Student)** @ [Wayfair](https://www.wayfair.com), Berlin
+- **Co-founder & Developer** @ [Cor-Tex.app](https://cor-tex.app)
+- **Co-founder & Developer** @ Art Yad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education:**
+- **M.Sc. in Software Engineering**, University of Europe for Applied Sciences, Germany
+- **M.Sc. in Cognitive Science** *(Design & Creativity)*, Institute for Cognitive Science Studies, Iran
+- **B.A. in Music** *(Performance)*, University of Tehran, Iran
+
+🔎 **Find me on:**
+- 💼 [LinkedIn](https://linkedin.com/in/ali-dasmeh)
+- ✉️ [alidasmeh@gmail.com](mailto:alidasmeh@gmail.com)
